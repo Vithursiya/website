@@ -9,7 +9,7 @@
     </style>
 
 
-    <form class="form-horizontal" action="/Projekte/Website/public/zeugnis" method="POST">
+    <form class="form-horizontal" action=<?php echo $GLOBALS['appurl']."/login/doLogin";?> method="POST">
         <div class="component" data-html="true">
             <div class="form-group">
                 <div class="col-md-4">
@@ -27,6 +27,7 @@
                 <label class="col-md-2 control-label" for="textinput">&nbsp;</label>
                 <div class="col-md-4">
                     <input name="send" type="submit" class="btn btn-primary " value="Login">
+                    <?php echo $meldung;?>
                 </div>
             </div>
         </div>

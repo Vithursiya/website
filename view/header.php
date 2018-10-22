@@ -34,6 +34,9 @@
         <div id="navbar" class="collapse navbar-collapse" style="backgroundcolor: #b3b3b3";>
           <ul class="nav navbar-nav">
               <?php if ($_SESSION['eingeloggt']==1) { ?>
+                  <li><a href="<?=$GLOBALS['appurl']?>/user">Home</a></li>
+                  <li><a href="<?=$GLOBALS['appurl']?>/Freizeit">Freizeit</a></li>
+                  <li><a href="<?=$GLOBALS['appurl']?>/Projekte/"> Projekte</a></li>
                   <li><a href="<?=$GLOBALS['appurl']?>/zeugnis">Zeugnisse</a></li>
                   <li><a href="<?=$GLOBALS['appurl']?>/login/logout">Logout</a></li>
               <?php } else { ?>

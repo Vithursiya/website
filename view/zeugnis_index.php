@@ -98,13 +98,6 @@
     <br>
     <br>
 
-
     <p>Wenn diese Daten nicht angezeigt werden können. Klicken sie <a href="https://drive.google.com/open?id=1KURDa1WmGpYMMnGcCwxeuRXsSJuvX_VH" target="-_blank">hier</a> </p>
 
-    <form class="form-horizontal" action="/Projekte/Website/public/login" method="POST">
-        <div class="col-md-4">
-            <input name="logout" type="submit" class="btn btn-primary " value="Logout">
-        </div>
-
-    </form>
 </article>

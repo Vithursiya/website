@@ -160,6 +160,8 @@
 
         </div>
 
+        <p>Wenn die Fotos nicht angezeigt werden können. Klicken Sie <a href="https://drive.google.com/drive/folders/165W-tX9bBZgej64pJ3bcn4y7cL2V_y61?usp=sharing">hier</a></p>
+
     </div>
 
 
@@ -280,6 +282,7 @@
 
         </div>
 
+        <p>Wenn die Bilder nicht angezeigt werden können. Klicken Sie <a href="https://drive.google.com/open?id=149Yz1gR5hT-40saeu5-QbnReMYKFt42s">hier</a></p>
     </div>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

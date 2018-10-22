@@ -8,15 +8,18 @@
  * Wie in der .htaccess Datei beschrieben, werden alle Anfragen, welche nicht
  * auf eine bestehende Datei zeigen hierhin umgeleitet.
  */
-$GLOBALS['appurl'] = '/Projekte/Website/public';
-$GLOBALS['numAppurlFragments'] = 3;
+$GLOBALS['appurl'] = '/public';
+$GLOBALS['numAppurlFragments'] = 1;
 
-require_once '../lib/Dispatcher.php';
-require_once '../lib/formbuilder/FormBuilder.php';
-require_once '../lib/View.php';
+require_once '../Dispatcher.php';
+require_once '../formbuilder/FormBuilder.php';
+require_once '../View.php';
 
 session_start();
-$_SESSION['eingeloggt']=0;
+if(!isset($_SESSION['eingeloggt'])){
+    $_SESSION['eingeloggt']=0;
+}
+
 
 $dispatcher = new Dispatcher();
 $dispatcher->dispatch();
