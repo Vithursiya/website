@@ -3,11 +3,11 @@
 
     <div style="float: bottom">
     <h1 style="float: none; margin: 0 auto; ">Vithursiya Vijayasingam</h1>
+	<br>
     <p>
-        Ich heisse Vithursiya Vijayasingam und bin 18 Jahre alt. Ich besuche momentan die Informatikmittelschule IMS am BWD in Bern, wo ich das 5.Semester absolviere. Ich bin kreativ, sorgf√§ltig, geduldig und engagiert, interessiere mich sehr f√ºr Informatik und probiere gerne immer etwas Neues aus. Doch mehr zu meiner Person auf der n√§chsten Seite.
+ Ich heisse Vithursiya Vijayasingam und bin 18 Jahre alt. Ich besuche momentan die Informatikmittelschule IMS am BWD in Bern, wo ich das 6.Semester absolviere. Ich bin <b>kreativ</b>, <b>sorgf‰ltig</b>, <b>geduldig</b> und <b>engagiert</b>, interessiere mich sehr f¸r Informatik und probiere gerne immer etwas Neues aus. Doch mehr zu meiner Person auf der n‰chsten Seite.
     </p>
     </div>
 
-    <a href="https://drive.google.com/open?id=1Fw2ABQvej-jhC2KhRn4W2zDvSwnETTar" target="_blank">Lebenslauf</a>
-
+   
 </article>

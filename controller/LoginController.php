@@ -21,11 +21,19 @@ class LoginController
     public function doLogin()
     {
         $benutzername="admin";
-        $passwort="gibbiX12345";
+        $benutzername1="NewCom";
+        $benutzername2="QuantumAnalytics";
+        $benutzername3="Vithu";
+	$benutzername4=Hallo;
+        $passwort="EA6TNq8QjW3{";
 
         if (isset($_POST['send'])) {
 
             if ($_POST['benutzername'] == $benutzername
+                || $_POST['benutzername'] ==$benutzername1
+                ||$_POST['benutzername'] ==$benutzername2
+                || $_POST['benutzername'] ==$benutzername3
+		|| $_POST['benutzername'] ==$benutzername4
                 && $_POST['passwort'] == $passwort) {
                 $_SESSION['eingeloggt'] = 1;
                 //echo "Eingeloggt";
@@ -35,7 +43,6 @@ class LoginController
         } else {
            header("Location:".$GLOBALS['appurl']."/login");
         }
-
     }
     public function logout()
     {
