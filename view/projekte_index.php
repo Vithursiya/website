@@ -63,18 +63,29 @@
     </script>
 
 <div class="container mt-5">
+    <h3>2019</h3>
+    <div class="card">
+        <div class="container">
+            <h3><b>Tic Tac Toe JavaFX</b></h3>
+	<p><h4>Sprache: </h4> Java </p>
+	<p></p>
+        </div>
+    </div>
+
     <h3>2018</h3>
     <div class="card">
         <div class="container">
             <h3><b>MyDiary</b></h3>
-            <p><h4>Abstract: </h4><a href="https://drive.google.com/open?id=1HNPsUR7VTz5ws7fjhJucTAKj3yRjArU1" target="_blank">MyDiary</a></p>
+	<p><h4>Sprache: </h4> Java </p>
+            <p><h4>Abstract: </h4><a href="https://drive.google.com/open?id=1fvzFtA4QVrCQtX_NCZ0U0p4B_cf4yetw" target="_blank">MyDiary</a></p>
         </div>
     </div>
     <br>
     <div class="card">
         <div class="container">
             <h3><b>Zeiterfassung BOX65</b></h3>
-            <p><h4>Abstract: </h4><a href="https://drive.google.com/open?id=1qErtvfJIZVfB849aNg-rLb0jPws56eGN" target="_blank">Zeiterfassung BOX65</a></p>
+	<p><h4>Sprache: </h4> HTML, CSS, PHP </p>
+            <p><h4>Abstract: </h4><a href="https://drive.google.com/open?id=13s3eX4sLKR3eZAA_UDFtadqLKC82mJ50" target="_blank">Zeiterfassung BOX65</a></p>
         </div>
     </div>
 
@@ -82,6 +93,7 @@
     <div class="card">
         <div class="container">
             <h3><b>BadiApp</b></h3>
+	<p><h4>Sprache: </h4> Java </p>	
             <p><h4>Abstract: </h4><a href="https://drive.google.com/open?id=1AEEGDDo5i1orDK7gwWuvZJ2EfkBUGZ4r" target="_blank">BadiApp</a></p>
         </div>
     </div>
@@ -89,6 +101,7 @@
     <div class="card">
         <div class="container">
             <h3><b>Gesundheitswebseite</b></h3>
+	<p><h4>Sprache: </h4> HTML, CSS </p>
             <p><h4>Abstract: </h4><a href="https://drive.google.com/open?id=1zre2LKfcAjOzKafAVYnMKuejF21Ocsw7" target="_blank">Gesundheitswebseite</a> <br>
                 <h4>Webseitelink: </h4><a href="http://gesundheit.imsbern.ch/" target="_blank">GesundheitsWebseite</a></p>
         </div>
@@ -97,6 +110,7 @@
     <div class="card">
         <div class="container">
             <h3><b>RezeptWebseite</b></h3>
+	<p><h4>Sprache: </h4> HTML, CSS, PHP </p>
             <p><h4>Abstract: </h4><a href="https://drive.google.com/open?id=1mIiqEUDCs1NCCuovKfqQTQ8QNrVNXqTu" target="_blank">RezeptWebseite</a></p>
         </div>
     </div>
@@ -111,6 +125,7 @@
      <div class="card">
          <div class="container">
              <h3><b>TicTacToc</b></h3>
+	<p><h4>Sprache: </h4> Javascript </p>
              <p> </p>
          </div>
      </div>
