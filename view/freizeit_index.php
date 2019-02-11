@@ -46,10 +46,10 @@
     </script>
 
 
-	<p>Ich langweile mich nie, bin neugierig und vielseitig interessiert. So habe ich meine Lieblings-beschäftigungen gefunden:</p>
+	<p>Ich langweile mich nie, bin neugierig und vielseitig interessiert. So habe ich meine LieblingsbeschÃ¤ftigungen gefunden:</p>
 
     <h2 class="text-center">Reisen</h2>
-    <p>Ich entdecke gerne Neues, reise viel und möchte möglichst alle Seiten von dieser Welt sehen. Durch meine vielfältigen Reisen in verschiedenen Ländern Europas sowie auch im asiatischen Raum habe ich sehr unterschiedliche Kulturen kennengelernt. </p>
+    <p>Ich entdecke gerne Neues, reise viel und mÃ¶chte mÃ¶glichst alle Seiten von dieser Welt sehen. Durch meine vielfÃ¤ltigen Reisen in verschiedenen LÃ¤ndern Europas sowie auch im asiatischen Raum habe ich sehr unterschiedliche Kulturen kennengelernt. </p>
     <div style="height: 600px; width: 100%;">
     <iframe src="https://www.google.com/maps/d/embed?mid=1vrHB7WO2IUk0i9E0WX5fb0hux3Wtt9zG&hl=de" width="100%" height="600"></iframe>
     <br>
@@ -59,7 +59,7 @@
     <div class="FotoGalary">
         <h2 class="text-center">Fotografieren</h2>
 
-<p>Ich halte gerne die wichtigsten Ereignisse in meinem Leben fest. So hat sich mein Interesse für das Fotografieren entwickelt. Wichtig ist mir, dass meine Fotos nicht nur eine inhaltliche Bedeutung haben, sondern auch optisch perfekt wirken. Daher habe ich mir eine Kamera zu-gelegt, die es mir ermöglicht, professionelle Fotos zu machen. </p>
+<p>Ich halte gerne die wichtigsten Ereignisse in meinem Leben fest. So hat sich mein Interesse fÃ¼r das Fotografieren entwickelt. Wichtig ist mir, dass meine Fotos nicht nur eine inhaltliche Bedeutung haben, sondern auch optisch perfekt wirken. Daher habe ich mir eine Kamera zu-gelegt, die es mir ermÃ¶glicht, professionelle Fotos zu machen. </p>
         <br>
                         <a class="fancybox-thumb" rel="fancybox-thumb" href="images/fotografieren/Foto1.jpeg">
                             <img src="images/fotografieren/Foto1.jpeg" alt="Park" class="card-img-top" style="width: 33%;">
@@ -117,7 +117,7 @@
     <div class="FotoGalary">
 
         <h2 class="text-center">Zeichnen</h2>
-        <p>Ich zeichne schon sehr lange. Zeichnen zwingt mich, kreativ zu werden und neue Ideen um-zusetzen, gleichzeitig aber auch sorgfältig und geduldig zu arbeiten. Ich zeichne sowohl mit Bleistift als auch mit Buntstiften.</p>	
+        <p>Ich zeichne schon sehr lange. Zeichnen zwingt mich, kreativ zu werden und neue Ideen um-zusetzen, gleichzeitig aber auch sorgfÃ¤ltig und geduldig zu arbeiten. Ich zeichne sowohl mit Bleistift als auch mit Buntstiften.</p>
         <br>
 
 
