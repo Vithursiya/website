@@ -1,4 +1,4 @@
-k <?php
+<?php
 
 require_once '../repository/LoginRepository.php';
 
@@ -23,7 +23,7 @@ class LoginController
         $benutzername="admin";
         $benutzername1="NewCom";
         $benutzername2="QuantumAnalytics";
-        $benutzername3="Vithu";
+        $benutzername3="ti&m";
 	$benutzername4=Hallo;
         $passwort="EA6TNq8QjW3{";
 

@@ -15,8 +15,8 @@
         <img src="../public/images/Logo/GIBB.png" alt="Gibb" style="width: 100%;   ">
         <div class="container">
             <br>
-            <p><a href="https://drive.google.com/open?id=1AaxnF_fUcovatjyaBneh0lYGJqjsdP_q" target="_blank">
-                    Gibb-Zeugnis 5.Semester
+            <p><a href="https://drive.google.com/open?id=1DMoRn8pKJZCefZTsPVeAnowdSQZpEIVf" target="_blank">
+                    Gibb-Zeugnis 6.Semester
                 </a></p>
         </div>
     </div>
@@ -60,7 +60,7 @@
         <div class="container">
             <br>
             <p><a href="https://drive.google.com/open?id=1pqeLr--MiCKdbnSDD7_58gil5nwL3Xne" target="_blank">
-                    BWD-Zeugnis 4.Semester
+                    BWD-Zeugnis 6.Semester
                 </a></p>
         </div>
     </div>

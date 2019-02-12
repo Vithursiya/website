@@ -62,8 +62,6 @@
 
     </script>
 
-    <p>Da finden Sie meine Projekte:</p>
-
 <div class="container mt-5">
     <h3>2019</h3>
     <div class="card">
