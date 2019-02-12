@@ -8,8 +8,8 @@
  * Wie in der .htaccess Datei beschrieben, werden alle Anfragen, welche nicht
  * auf eine bestehende Datei zeigen hierhin umgeleitet.
  */
-$GLOBALS['appurl'] = '/public';
-$GLOBALS['numAppurlFragments'] = 1;
+$GLOBALS['appurl'] = 'website/public';
+$GLOBALS['numAppurlFragments'] = 3;
 
 require_once '../Dispatcher.php';
 require_once '../formbuilder/FormBuilder.php';

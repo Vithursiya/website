@@ -7,6 +7,14 @@ body {
   vertical-align: top;
 }
 
+li{
+  color: azure;
+}
+
+.navbar navbar-inverse navbar-fixed-top{
+  background: blue;
+}
+
 
  .card {
    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
