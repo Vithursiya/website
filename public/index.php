@@ -9,7 +9,7 @@
  * auf eine bestehende Datei zeigen hierhin umgeleitet.
  */
 $GLOBALS['appurl'] = '/public';
-$GLOBALS['numAppurlFragments'] = 1;
+$GLOBALS['numAppurlFragments'] = 3;
 
 require_once '../Dispatcher.php';
 require_once '../formbuilder/FormBuilder.php';

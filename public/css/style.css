@@ -5,6 +5,18 @@ body {
   display: inline-block;
   float: none;
   vertical-align: top;
+  font-size: 30px;
+  float: right;
+  margin-top: 15px;
+}
+
+.navbar-inverse .navbar-nav li a{
+  color: black;
+}
+
+.navbar-inverse .navbar-nav li :hover{
+  background: aliceblue ;
+
 }
 
 

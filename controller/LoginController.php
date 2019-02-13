@@ -24,7 +24,7 @@ class LoginController
         $benutzername1="NewCom";
         $benutzername2="QuantumAnalytics";
         $benutzername3="ti&m";
-	$benutzername4=Hallo;
+	$benutzername4="Hallo";
         $passwort="EA6TNq8QjW3{";
 
         if (isset($_POST['send'])) {
@@ -42,6 +42,8 @@ class LoginController
             }
         } else {
            header("Location:".$GLOBALS['appurl']."/login");
+           echo "Versuchen sie es noch einmal!";
+
         }
     }
     public function logout()

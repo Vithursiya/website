@@ -20,7 +20,29 @@
     <![endif]-->
   </head>
   <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color: white; height: 80px">
+  <style>
+      .navbar .navbar-nav {
+          display: inline-block;
+          float: none;
+          vertical-align: top;
+          font-size: 30px;
+          float: right;
+          margin-top: 15px;
+      }
+
+      .navbar-inverse .navbar-nav li a{
+          color: black;
+      }
+
+      .navbar-inverse .navbar-nav li a:hover{
+          background: black ;
+
+      }
+
+  </style>
+
+
+    <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color: white; height: 60px">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -32,7 +54,7 @@
 
         </div>
         <div id="navbar" class="collapse navbar-collapse">
-          <ul class="nav navbar-nav" style="font-size: 30px; float: right; margin-top: 15px">
+          <ul class="nav navbar-nav">
               <?php if ($_SESSION['eingeloggt']==1) { ?>
                   <li><a href="<?=$GLOBALS['appurl']?>/user">Home</a></li>
                   <li><a href="<?=$GLOBALS['appurl']?>/Freizeit">Freizeit</a></li>
