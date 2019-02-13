@@ -20,6 +20,7 @@
     <![endif]-->
   </head>
   <body>
+
   <style>
       .navbar .navbar-nav {
           display: inline-block;
@@ -36,13 +37,11 @@
 
       .navbar-inverse .navbar-nav li a:hover{
           background: black ;
-
       }
-
   </style>
 
 
-    <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color: white; height: 60px">
+    <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color: white; height: 70px">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
